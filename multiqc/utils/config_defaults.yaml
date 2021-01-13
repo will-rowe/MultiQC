@@ -109,7 +109,7 @@ show_hide_patterns: []
 show_hide_regex: []
 show_hide_mode: []
 no_version_check: false
-log_filesize_limit: 10000000
+log_filesize_limit: 100000000
 report_readerrors: false
 skip_generalstats: false
 data_format_extensions:
